@@ -1,0 +1,33 @@
+linear search
+binary search 
+depth first search
+breadth first search 
+
+insertioon sort 
+heap sort 
+selection sort 
+merge sort 
+quick sort 
+counting sort 
+
+kruska algo 
+dijkstra algo 
+bellman ford algo 
+floyd warshall algo 
+topological sort algo 
+flood fill algo  
+lee algo 
+
+kadane's algo 
+floyd's cycle 
+detection alggo 
+    kmp algo 
+    quck select algo 
+    boyer more 
+    majority vote algo 
+
+basic
+ huffman coding 
+ compression algo 
+ euclid's algo 
+ union find algo

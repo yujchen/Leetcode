@@ -1,0 +1,13 @@
+kadane's algorithm:
+	-53
+isomorphic strings:
+	- 205
+
+Dynamic Programming:
+	-509
+
+Binet Formula:
+	-509
+
+Matrix Exponentiation:
+	-509
